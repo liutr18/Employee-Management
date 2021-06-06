@@ -36,8 +36,8 @@ If the Junit Test shows "total 5 passed 5", then it is available to use this who
 ```
 src/service/IEmployeeService.java
 ```
-Available Functions are:
-
+# What are the available functions on Service Layer?
+Create, Read, Update, Delete, Read all, Fuzzy Query.
 ```
 // Create
 public boolean insert(Employee vo) throws Exception;
