@@ -1,4 +1,4 @@
-# Employee Management Tool designed and created by Tianren Liu.
+# Employee-Management Tool designed & created by Tianren Liu
 
 
 # What can it do?
