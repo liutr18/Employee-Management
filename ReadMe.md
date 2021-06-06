@@ -4,16 +4,16 @@
 # What can it do?
 Create, Read, Update, Delete (hereafter as **CURD**) employees' information, automatically guaranteeing each employee's ID is exclusive.
 
-# What does an employee's information include?
+# How are employee's information stored in MySQL?
 
 Variable | Numeric Type | Nullable
 ---|---|---
-Employee ID | Integer | No
-Name | String | Yes
-Post | String | Yes
-HireDate | Date | Yes
-Salary | Float | Yes
-Bonus | Float | Yes
+Employee ID | INT | No
+Name | VARCHAR(50) | Yes
+Post | VARCHAR(50) | Yes
+HireDate | DATE | Yes
+Salary | FLOAT | Yes
+Bonus | FLOAT | Yes
 
 # How to use it?
 Download the Employee-Management File and Import the MySQL connector to the project library. 
