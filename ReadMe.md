@@ -32,7 +32,7 @@ Run the Junit Test to test availability of Employee Service Interface.
 ```
 src/test/junit/EmployeeServiceTestJunit.java
 ```
-If the Junit Test shows passed 5 total 5, then you are able to use this whole project. Provided APIs to Control layer are in the following interface. This interface shows 6 available operations in Service Layer (Business Object, BO) to Control layer.
+If the Junit Test shows "total 5 passed 5", then you are able to use this whole project. Provided APIs to Control layer are in the following interface. This interface shows 6 available operations in Service Layer (Business Object, BO) to Control layer.
 ```
 src/service/IEmployeeService.java
 ```
