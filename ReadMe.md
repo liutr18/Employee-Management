@@ -16,7 +16,7 @@ Salary | Float | Yes
 Bonus | Float | Yes
 
 # How to use it?
-Download the Employee-Management File and Import the mysql connector to the project library. 
+Download the Employee-Management File and Import the MySQL connector to the project library. 
 ```
 lib/mysql-connector-java-8.0.25.jar
 ```
