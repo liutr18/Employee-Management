@@ -39,19 +39,19 @@ src/service/IEmployeeService.java
 Available Functions are:
 
 ```
-//Create
+// Create
 public boolean insert(Employee vo) throws Exception;
-//Read
+// Read
 public Employee findByEid(Integer eid) throws  Exception;
-//Update
+// Update
 public boolean update(Employee vo) throws Exception;
-//Delete
+// Delete
 public boolean delete(Set<Integer> eids) throws  Exception;
 
-//Read info of all Employees
+// Read info of all Employees
 public List<Employee> listAllEmployees() throws Exception;
 
-//Fuzzy Query
+// Fuzzy Query
 /**
  * fuzzyQuery calls IEmployeeDAO.findAllSplit(), returning List<Employee>
  * and calls IEmployeeDAO.getAllCount(), returning Integer.
