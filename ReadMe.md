@@ -15,7 +15,7 @@ HireDate | DATE | Yes
 Salary | FLOAT | Yes
 Bonus | FLOAT | Yes
 
-# How to use it?
+# How to test its availablity and implement it?
 Download the Employee-Management File and Import the MySQL connector to the project library. 
 ```
 lib/mysql-connector-java-8.0.25.jar
