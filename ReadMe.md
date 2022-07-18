@@ -1,4 +1,4 @@
-# Employee Management Project designed & created by Tianren Liu
+# Employee Management Project 
 
 
 # What can it do?
